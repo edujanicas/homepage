@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="196px" viewBox="0 0 196 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Imperial</title>
+    <defs>
+        <circle id="path-1" cx="98" cy="98" r="98"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" strokeWidth="1" fill="none" fill-rule="evenodd">
+        <g id="Imperial">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <circle stroke="#979797" cx="98" cy="98" r="97.5"></circle>
+            <image id="favicon-196x196" mask="url(#mask-2)" x="0" y="0" width="196" height="196" xlink:href="data:image/png;base64,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"></image>
+        </g>
+    </g>
+</svg>
