@@ -49,7 +49,7 @@ function MailIcon(props: React.ComponentPropsWithoutRef<'svg'>) {
 export const metadata: Metadata = {
   title: 'About',
   description:
-    'I’m Eduardo, an integration engineer and indie developer based in London.',
+    'I\'m Eduardo, an integration engineer and indie developer based in London.',
 }
 
 export default function About() {
@@ -68,7 +68,7 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-            I’m Eduardo, an integration engineer and indie developer based in London.
+            I&apos;m Eduardo, an integration engineer and indie developer based in London.
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
@@ -78,12 +78,12 @@ export default function About() {
               I strongly believe that democratising and giving everyone access to write and run code can shape a better world.
             </p>
             <p>
-              For my first job I had the opportunity to manage my university's network. 
+              For my first job I had the opportunity to manage my university network. 
               In a small team of 4, I was responsible for maintaining all the networking stack and redesign the core of our routing infrastructure using Software Defined Networks. 
               Right after this, I moved to DevOps Engineering on a startup to work closely with Developers in quickly shipping software to production. 
             </p>
             <p>
-              Ever since then, I've been involved in leading technical initiatives and designing scalable distributed and payments systems on the cloud. 
+              Ever since then, I have been involved in leading technical initiatives and designing scalable distributed and payments systems on the cloud. 
               Today, I lead EMEA Integration Engineering at Stripe working with our most strategic European customers on their payment transformation initiatives.
             </p>
           </div>

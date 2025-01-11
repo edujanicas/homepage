@@ -190,7 +190,7 @@ export default async function Home() {
             Software Architect, Indie Developer.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Eduardo, an integration engineer and indie developer based in London.
+            I&apos;m Eduardo, an integration engineer and indie developer based in London.
             This is my personal space where I consolidate my background.
           </p>
           <div className="mt-6 flex gap-6">
@@ -223,12 +223,12 @@ export default async function Home() {
               I strongly believe that democratising and giving everyone access to write and run code can shape a better world.
             </p>
             <p>
-              For my first job I had the opportunity to manage my university's network. 
+              For my first job I had the opportunity to manage my university network. 
               In a small team of 4, I was responsible for maintaining all the networking stack and redesign the core of our routing infrastructure using Software Defined Networks. 
               Right after this, I moved to DevOps Engineering on a startup to work closely with Developers in quickly shipping software to production. 
             </p>
             <p>
-              Ever since then, I've been involved in leading technical initiatives and designing scalable distributed and payments systems on the cloud. 
+              Ever since then, I have been involved in leading technical initiatives and designing scalable distributed and payments systems on the cloud. 
               Today, I lead EMEA Integration Engineering at Stripe working with our most strategic European customers on their payment transformation initiatives.
             </p>
           </div>
